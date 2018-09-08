@@ -1,2 +1,0 @@
-# project
-Genrating CGI Application
